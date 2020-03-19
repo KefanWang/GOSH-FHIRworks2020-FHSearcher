@@ -1,0 +1,4 @@
+Install request
+Install python-dateutil
+Download wkhtmltopdf and setup
+install pdfkit
